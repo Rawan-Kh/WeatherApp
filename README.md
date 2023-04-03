@@ -2,11 +2,11 @@
 ### Implemented via Html ,Css and pure JavaScript
 
 # Feature
-### Background Sound 
-### Day / Night
-### Responsive
+### - Background Sound 
+### - Day / Night
+### - Responsive
 
-![screen shot](Screenshot (60).png)
+![screen shot](Screenshot(60).png)
 
 # [Live Demo](https://rawan-kh.github.io/WeatherApp/) 
 
