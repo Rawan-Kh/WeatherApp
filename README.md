@@ -6,7 +6,7 @@
 ### - Day / Night
 ### - Responsive
 
-![screen shot](Screenshot(60).png)
+![screen shot](Home.png)
 
 # [Live Demo](https://rawan-kh.github.io/WeatherApp/) 
 
