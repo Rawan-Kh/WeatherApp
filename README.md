@@ -7,6 +7,6 @@
 ### - Responsive
 
 ![screen shot](Home.png)
-
+# [API](https://api.openweathermap.org)
 # [Live Demo](https://rawan-kh.github.io/WeatherApp/) 
 
